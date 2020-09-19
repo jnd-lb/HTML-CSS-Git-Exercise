@@ -4,3 +4,15 @@
   border-radius: 4px;
   background: #fff;
 }
+
+/*Normalization*/
+.countries{
+  padding-left: 0;
+}
+
+li{
+  border: 1px solid red; 
+  margin: 5px;
+  padding: 10px;
+  list-style: none;
+}
